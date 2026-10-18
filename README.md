@@ -185,8 +185,8 @@ Feb–May 2026  [Commercial]   Heagl Technologies Pvt Ltd — Junior Software De
 ## 📊 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alhaannn&show_icons=true&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="Alhan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alhaannn&layout=compact&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&text_color=E6EDF3" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alhaannn&show_icons=true&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=E6EDF3&include_all_commits=true" alt="Alhan's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhaannn&layout=compact&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&text_color=E6EDF3" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
