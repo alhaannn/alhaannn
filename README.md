@@ -11,6 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alhan.me-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alhan.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alhan_Bellary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhan-bellary)
+[![LeetCode](https://img.shields.io/badge/LeetCode-alhaannn-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/alhaannn/)
 [![Email](https://img.shields.io/badge/Email-alhanbellary123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhanbellary123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-alhaannn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhaannn)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Bengaluru)
@@ -182,10 +183,22 @@ Feb–May 2026  [Commercial]   Heagl Technologies Pvt Ltd — Junior Software De
 
 ---
 
-## 📊 GitHub Contribution Telemetry
+## 📊 Telemetry & Activity
+
+### ⚡ GitHub Contribution Telemetry
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhaannn&theme=tokyonight&border=10B981&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" width="95%" />
+</div>
+
+<br/>
+
+### 🧩 LeetCode Problem-Solving Telemetry
+
+<div align="center">
+  <a href="https://leetcode.com/u/alhaannn/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/alhaannn?theme=tokyonight&font=Fira%20Code" alt="Alhan's LeetCode Stats" width="60%" />
+  </a>
 </div>
 
 ---
@@ -196,6 +209,7 @@ I am always interested in discussing scalable architectures, agentic systems, ML
 
 - 🌐 **Interactive Portfolio**: [https://www.alhan.me](https://www.alhan.me)
 - 💼 **LinkedIn**: [linkedin.com/in/alhan-bellary](https://www.linkedin.com/in/alhan-bellary)
+- 🧩 **LeetCode**: [leetcode.com/u/alhaannn](https://leetcode.com/u/alhaannn/)
 - 📧 **Email**: [alhanbellary123@gmail.com](mailto:alhanbellary123@gmail.com)
 - 🐙 **GitHub**: [@alhaannn](https://github.com/alhaannn)
 - 📸 **Instagram**: [@alhaaannnn](https://www.instagram.com/alhaaannnn)
