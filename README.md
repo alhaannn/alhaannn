@@ -182,14 +182,7 @@ Feb–May 2026  [Commercial]   Heagl Technologies Pvt Ltd — Junior Software De
 
 ---
 
-## 📊 GitHub Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhaannn&show_icons=true&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=E6EDF3&include_all_commits=true" alt="Alhan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhaannn&layout=compact&theme=tokyonight&border_color=10B981&bg_color=0D1117&title_color=10B981&text_color=E6EDF3" alt="Top Languages" width="45%" />
-</div>
-
-<br/>
+## 📊 GitHub Contribution Telemetry
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhaannn&theme=tokyonight&border=10B981&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" width="95%" />
